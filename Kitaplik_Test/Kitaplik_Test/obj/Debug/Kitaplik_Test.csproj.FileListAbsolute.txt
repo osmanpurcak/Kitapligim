@@ -1,0 +1,9 @@
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\bin\Debug\Kitaplik_Test.exe.config
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\bin\Debug\Kitaplik_Test.exe
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\bin\Debug\Kitaplik_Test.pdb
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\obj\Debug\Kitaplik_Test.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\obj\Debug\Kitaplik_Test.Form1.resources
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\obj\Debug\Kitaplik_Test.Properties.Resources.resources
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\obj\Debug\Kitaplik_Test.csproj.GenerateResource.Cache
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\obj\Debug\Kitaplik_Test.exe
+C:\Users\Osman\Desktop\Projelerim\Kitaplik_Test\Kitaplik_Test\obj\Debug\Kitaplik_Test.pdb
